@@ -1,0 +1,11 @@
+.header{
+    font-size: 20px;
+    line-height: 1.5;
+}
+.header span{
+    display: block;
+}
+
+button{
+    width: 100%;
+}
